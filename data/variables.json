@@ -1,0 +1,16 @@
+{
+  "json_version": 4,
+  "variables":
+  [
+    {
+      "code": "english+name",
+      "force_tint": "False",
+      "color": "#FFFFFF00"
+    },
+    {
+      "code": "chinese_name",
+      "force_tint": "False",
+      "color": "#FFFFFF00"
+    }
+  ]
+}

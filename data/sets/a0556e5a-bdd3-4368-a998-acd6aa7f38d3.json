@@ -1,0 +1,82 @@
+{
+  "json_version": 4,
+  "sets":
+  [
+    {
+      "name": "set_001",
+      "blueprint_name": "blueprint_001",
+      "hint_order_index": 0,
+      "zoom": 0,
+      "collapsed": false,
+      "items":
+      [
+        {
+          "amount": 1,
+          "creation_date_unix": 1753991786,
+          "last_modification_date_unix": 1753991786,
+          "details":
+          [
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "生菜"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Lettuce"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1753991786,
+          "last_modification_date_unix": 1753991786,
+          "details":
+          [
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "蕹菜"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Kangkung"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1753991786,
+          "last_modification_date_unix": 1753991786,
+          "details":
+          [
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "午餐肉"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Luncheon Meat"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

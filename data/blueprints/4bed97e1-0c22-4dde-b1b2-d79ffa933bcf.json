@@ -1,0 +1,123 @@
+{
+  "json_version": 4,
+  "blueprints":
+  [
+    {
+      "name": "blueprint_001",
+      "type": "card",
+      "layout_size_mm": "60, 42",
+      "bleeding_size_mm": "0",
+      "main_panel_name": "",
+      "hint_order_index": 0,
+      "shape_settings":
+      {
+        "radius_uniform": "False",
+        "radius": "5"
+      },
+      "front_layers":
+      [
+        {
+          "name": "default_front",
+          "panels":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "layout_position": "0.000018716, 0",
+                "layout_size": "59.99998, 42",
+                "panel_type": "image",
+                "value": "frame.png",
+                "img_sliced": "True",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "logo",
+              "data":
+              {
+                "layout_position": "22.80162, 4.780126",
+                "layout_size": "15.86904, 12.90054",
+                "panel_type": "image",
+                "value": "logo.png",
+                "img_zoom": "0.9227448"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "layout_position": "0, 19.55065",
+                "layout_size": "60, 7.573268",
+                "layout_constraint_h": "left_and_right",
+                "panel_type": "text",
+                "value": "中文名字就是中文",
+                "text_font": "KaiTi",
+                "text_size_max": "30",
+                "color": "#292929"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "layout_position": "10.44094, 27.12392",
+                "layout_size": "39.11813, 5.75455",
+                "panel_type": "text",
+                "value": "English Name is English Name you",
+                "text_alignment_v": "top",
+                "text_size": "3.2"
+              }
+            },
+            {
+              "name": "bg",
+              "data":
+              {
+                "layout_position": "-1.498253, 0",
+                "layout_size": "78.86554, 74.76677",
+                "panel_type": "procedural",
+                "value": "Text",
+                "color": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers":
+      [
+        {
+          "name": "default_back",
+          "panels":
+          [
+            {
+              "name": "back_logo",
+              "data":
+              {
+                "layout_size": "60, 42",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "image",
+                "panel_editable": "False",
+                "value": "TC/Logo",
+                "img_zoom": "0.75"
+              }
+            },
+            {
+              "name": "back_color",
+              "data":
+              {
+                "layout_position": "-25, -25",
+                "layout_size": "110, 92.00003",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "panel_editable": "False",
+                "color": "#9891FF"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
