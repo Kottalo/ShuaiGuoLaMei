@@ -36,11 +36,11 @@
               "name": "logo",
               "data":
               {
-                "layout_position": "22.80162, 4.780126",
+                "layout_position": "22.52472, 6.025123",
                 "layout_size": "15.86904, 12.90054",
                 "panel_type": "image",
                 "value": "logo.png",
-                "img_zoom": "0.9227448"
+                "img_zoom": "0.9556211"
               }
             },
             {
@@ -54,7 +54,7 @@
                 "value": "中文名字就是中文",
                 "text_font": "KaiTi",
                 "text_size_max": "30",
-                "color": "#292929"
+                "color": "#000000FF"
               }
             },
             {

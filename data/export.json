@@ -2,6 +2,9 @@
   "json_version": 4,
   "export_settings":
   [
-    {}
+    {
+      "export_pdf_item_spacing": "0",
+      "export_sides": "front"
+    }
   ]
 }

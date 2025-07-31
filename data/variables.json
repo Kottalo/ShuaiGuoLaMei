@@ -3,14 +3,24 @@
   "variables":
   [
     {
-      "code": "english+name",
-      "force_tint": "False",
-      "color": "#FFFFFF00"
+      "code": "level_1_color",
+      "force_tint": "True",
+      "color": "#000000FF"
     },
     {
-      "code": "chinese_name",
-      "force_tint": "False",
-      "color": "#FFFFFF00"
+      "code": "level_2_color",
+      "force_tint": "True",
+      "color": "#A5571CFF"
+    },
+    {
+      "code": "level_3_color",
+      "force_tint": "True",
+      "color": "#DC0000FF"
+    },
+    {
+      "code": "level_4_color",
+      "force_tint": "True",
+      "color": "#FFB41BFF"
     }
   ]
 }
