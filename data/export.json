@@ -4,7 +4,8 @@
   [
     {
       "export_pdf_item_spacing": "0",
-      "export_sides": "front"
+      "export_sides": "front",
+      "export_images": "False"
     }
   ]
 }
