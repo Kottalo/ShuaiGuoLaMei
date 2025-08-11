@@ -12,8 +12,101 @@
       [
         {
           "amount": 1,
-          "creation_date_unix": 1754407694,
-          "last_modification_date_unix": 1754407694,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907405,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "生菜",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Lettuce ",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907405,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "铃铃卷",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Ring Ring Roll",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907405,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "小白菜",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Baby Bak Choy",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907405,
           "details":
           [
             {
@@ -43,8 +136,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407694,
-          "last_modification_date_unix": 1754407694,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907405,
           "details":
           [
             {
@@ -74,8 +167,2178 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907405,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "千张豆皮",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Thin Tofu Sheets",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907405,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "油麦",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Yau Mak",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "金针菇",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Enoki Mushroom",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "玉蜀黍",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Sweet Corn",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "空心菜",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Kangkung",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "金包银",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish N Soy",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "火锅苕皮",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Sweet Potato Noodle",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "腐竹片",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fried Tofu Sheet",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "起泡豆皮",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Bean Curd Skin",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鲍鱼菇",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Abalone Mushroom",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "土豆片",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Potato Slices",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "白萝卜",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "White Carrot",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "米粉",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Rice Noodle",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "方便面",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Instant Noodle",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "菠菜面",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Spinash Noodle",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "手工拉面",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Ramen",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "伊面",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Yee Mee",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "杏鲍菇",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "King Oyster Mushroom",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "白玉菇",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "White Mushroom",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "清水莲藕",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Lotus Root Slices",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "腐竹条",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Bean Curd Sticks",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鱼包花枝",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Squidi",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "豆腐卜",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Taufu Pok",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "龙虾丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Lobster Ball",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "三文鱼丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Salmon Ball",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "吊片猪肉丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Meat Ball with Cuttlefish",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "爆酱猪肉丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Bursting Meat Ball",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "芝士猪肉香肠",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Cheese Pork Sausage",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "台湾香肠丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Taiwan Sausage",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "金钱肉干",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Coin Bakkwa",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "猪午餐肉",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Luncheon Meat",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "竹轮",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Big Chikuwa",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "QQ鱼柱",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish Filament",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "牛肉丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Beef Ball",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "龙虾钳",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Hors Claw",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "福州鱼丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fuzhou Fish Ball",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "芝士豆腐",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Cheese Taufu",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "海鲜豆腐",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Seafood Taufu",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "白豆腐",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "White Taufu",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "QQ豆腐",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "QQ Taufu",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "魔芋结",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Konjac Knot",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鹌鹑蛋",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Quail Eggs",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "水晶鱼丸",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish Ball",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鸭血",
+                "color": "#000000FF"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Duck Blood Curd",
+                "color": "#000000FF"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鱼籽福袋",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish Roe Fukubukuro",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "北海道长脚蟹柳",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Hokkaido Snow Crab Legs",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鱼腐",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish Soy",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "炸鸡爪",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fried Chicken Feet",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "贵妃鲍鱼片",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Abalone Slices",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "熟带子",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Scallop",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "半壳扇贝",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Half Shell Scallop",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "半壳黄金扇贝",
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Golden Scallop",
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "酿豆腐卜",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish Taufu Pok",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "猪肚",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Pork Hog Maw",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鱼面",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Fish Udon",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鱿鱼圈",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Squid Rings",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "特色手工水饺",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Handmade Dumpling",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "啦啦",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Lala Clamps",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "老虎虾",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Tiger Prawn",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "熏鸭胸肉",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Smoked Duck Slices",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "卤肥肠",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Braised Pork Intestines",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "卤金钱肚",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Braised Beef Tripe",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "千丝牛肚",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Shredded Beef Tripe",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "洗净鸭肠",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Duck Intestines",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "巴丁鱼片",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Patin Slices",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "石斑鱼片",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Grouper Slice",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "毛肚",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Beef Tripe",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "八爪鱼",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Baby Octopus",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "红鱼片",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Red Snapper",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
+          "details":
+          [
+            {
+              "name": "frame",
+              "data":
+              {
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "鱿鱼须",
+                "color": "#DC0000"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Squid Tentacles",
+                "color": "#DC0000"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
           "details":
           [
             {
@@ -105,8 +2368,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
           "details":
           [
             {
@@ -136,8 +2399,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
           "details":
           [
             {
@@ -167,8 +2430,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
           "details":
           [
             {
@@ -198,8 +2461,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
           "details":
           [
             {
@@ -229,8 +2492,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907406,
           "details":
           [
             {
@@ -260,8 +2523,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907406,
+          "last_modification_date_unix": 1754907407,
           "details":
           [
             {
@@ -291,8 +2554,8 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754407695,
-          "last_modification_date_unix": 1754407695,
+          "creation_date_unix": 1754907407,
+          "last_modification_date_unix": 1754907407,
           "details":
           [
             {
