@@ -5,7 +5,7 @@
     {
       "name": "blueprint_001",
       "type": "card",
-      "layout_size_mm": "60, 42",
+      "layout_size_mm": "60, 40",
       "bleeding_size_mm": "0",
       "main_panel_name": "",
       "hint_order_index": 0,
@@ -24,8 +24,8 @@
               "name": "frame",
               "data":
               {
-                "layout_position": "0.000018716, 0",
-                "layout_size": "59.99998, 42",
+                "layout_position": "0.000019073, 0",
+                "layout_size": "59.99998, 40",
                 "panel_type": "image",
                 "value": "frame.png",
                 "img_sliced": "True",
@@ -40,33 +40,35 @@
                 "layout_size": "15.86904, 12.90054",
                 "panel_type": "image",
                 "value": "logo.png",
-                "img_zoom": "0.9556211"
+                "img_zoom": "0.9556211",
+                "visible": "False"
               }
             },
             {
               "name": "text_chinese",
               "data":
               {
-                "layout_position": "0, 19.55065",
-                "layout_size": "60, 7.573268",
+                "layout_position": "3.930084, 12.47539",
+                "layout_size": "52.13983, 7.573268",
                 "layout_constraint_h": "left_and_right",
                 "panel_type": "text",
-                "value": "中文名字就是中文",
+                "value": "中文中文中文中文",
                 "text_font": "KaiTi",
                 "text_size_max": "30",
-                "color": "#000000FF"
+                "color": "#000000FF",
+                "text_size": "6"
               }
             },
             {
               "name": "text_english",
               "data":
               {
-                "layout_position": "10.44094, 27.12392",
-                "layout_size": "39.11813, 5.75455",
+                "layout_position": "8.095505, 21.35083",
+                "layout_size": "44.72747, 5.75455",
                 "panel_type": "text",
-                "value": "English Name is English Name you",
+                "value": "English English English",
                 "text_alignment_v": "top",
-                "text_size": "3.2"
+                "text_size": "3.7"
               }
             },
             {
@@ -93,7 +95,7 @@
               "name": "back_logo",
               "data":
               {
-                "layout_size": "60, 42",
+                "layout_size": "60, 40",
                 "layout_constraint_h": "left_and_right",
                 "layout_constraint_v": "top_and_bottom",
                 "panel_type": "image",
@@ -107,7 +109,7 @@
               "data":
               {
                 "layout_position": "-25, -25",
-                "layout_size": "110, 92.00003",
+                "layout_size": "110, 90.00003",
                 "layout_constraint_h": "left_and_right",
                 "layout_constraint_v": "top_and_bottom",
                 "panel_type": "procedural",
