@@ -12,12 +12,12 @@
       [
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907405,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -27,7 +27,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "生菜",
+                "value": "生菜"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -35,7 +41,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Lettuce ",
+                "value": "Lettuce "
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -43,12 +55,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907405,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -58,7 +70,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "铃铃卷",
+                "value": "铃铃卷"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -66,7 +84,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Ring Ring Roll",
+                "value": "Ring Ring Roll"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -74,12 +98,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907405,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -89,7 +113,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "小白菜",
+                "value": "小白菜"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -97,7 +127,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Baby Bak Choy",
+                "value": "Baby Bak Choy"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -105,12 +141,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907405,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -120,7 +156,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "湿粉条",
+                "value": "湿粉条"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -128,7 +170,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Sweet Potato Noodle",
+                "value": "Sweet Potato Noodle"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -136,12 +184,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907405,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -151,7 +199,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "黄芽白",
+                "value": "黄芽白"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -159,7 +213,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Chinese Cabbage",
+                "value": "Chinese Cabbage"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -167,12 +227,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907405,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -182,7 +242,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "千张豆皮",
+                "value": "千张豆皮"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -190,7 +256,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Thin Tofu Sheets",
+                "value": "Thin Tofu Sheets"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -198,12 +270,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907405,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -213,7 +285,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "油麦",
+                "value": "油麦"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -221,7 +299,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Yau Mak",
+                "value": "Yau Mak"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -229,12 +313,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -244,7 +328,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "金针菇",
+                "value": "金针菇"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -252,7 +342,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Enoki Mushroom",
+                "value": "Enoki Mushroom"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -260,12 +356,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -275,7 +371,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "玉蜀黍",
+                "value": "玉蜀黍"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -283,7 +385,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Sweet Corn",
+                "value": "Sweet Corn"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -291,12 +399,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -306,7 +414,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "空心菜",
+                "value": "空心菜"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -314,7 +428,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Kangkung",
+                "value": "Kangkung"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -322,12 +442,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -337,7 +457,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "金包银",
+                "value": "金包银"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -345,7 +471,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish N Soy",
+                "value": "Fish N Soy"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -353,12 +485,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -368,7 +500,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "火锅苕皮",
+                "value": "火锅苕皮"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -376,7 +514,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Sweet Potato Noodle",
+                "value": "Sweet Potato Noodle"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -384,12 +528,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -399,7 +543,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "腐竹片",
+                "value": "腐竹片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -407,7 +557,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fried Tofu Sheet",
+                "value": "Fried Tofu Sheet"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -415,12 +571,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -430,7 +586,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "起泡豆皮",
+                "value": "起泡豆皮"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -438,7 +600,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Bean Curd Skin",
+                "value": "Bean Curd Skin"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -446,12 +614,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -461,7 +629,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鲍鱼菇",
+                "value": "鲍鱼菇"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -469,7 +643,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Abalone Mushroom",
+                "value": "Abalone Mushroom"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -477,12 +657,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -492,7 +672,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "土豆片",
+                "value": "土豆片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -500,7 +686,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Potato Slices",
+                "value": "Potato Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -508,12 +700,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -523,7 +715,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "白萝卜",
+                "value": "白萝卜"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -531,7 +729,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "White Carrot",
+                "value": "White Carrot"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -539,12 +743,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -554,7 +758,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "米粉",
+                "value": "米粉"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -562,7 +772,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Rice Noodle",
+                "value": "Rice Noodle"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -570,12 +786,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -585,7 +801,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "方便面",
+                "value": "方便面"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -593,7 +815,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Instant Noodle",
+                "value": "Instant Noodle"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -601,12 +829,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -616,7 +844,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "菠菜面",
+                "value": "菠菜面"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -624,7 +858,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Spinash Noodle",
+                "value": "Spinash Noodle"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -632,12 +872,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -647,7 +887,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "手工拉面",
+                "value": "手工拉面"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -655,7 +901,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Ramen",
+                "value": "Ramen"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -663,12 +915,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -678,7 +930,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "伊面",
+                "value": "伊面"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -686,7 +944,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Yee Mee",
+                "value": "Yee Mee"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -694,12 +958,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -709,7 +973,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "杏鲍菇",
+                "value": "杏鲍菇"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -717,7 +987,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "King Oyster Mushroom",
+                "value": "King Oyster Mushroom"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -725,12 +1001,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -740,7 +1016,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "白玉菇",
+                "value": "白玉菇"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -748,7 +1030,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "White Mushroom",
+                "value": "White Mushroom"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -756,12 +1044,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -771,7 +1059,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "清水莲藕",
+                "value": "清水莲藕"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -779,7 +1073,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Lotus Root Slices",
+                "value": "Lotus Root Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -787,12 +1087,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -802,7 +1102,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "腐竹条",
+                "value": "腐竹条"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -810,7 +1116,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Bean Curd Sticks",
+                "value": "Bean Curd Sticks"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -818,12 +1130,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -833,7 +1145,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鱼包花枝",
+                "value": "鱼包花枝"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -841,7 +1159,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Squidi",
+                "value": "Squidi"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -849,12 +1173,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -864,7 +1188,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "豆腐卜",
+                "value": "豆腐卜"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -872,7 +1202,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Taufu Pok",
+                "value": "Taufu Pok"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -880,12 +1216,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -895,7 +1231,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "龙虾丸",
+                "value": "龙虾丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -903,7 +1245,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Lobster Ball",
+                "value": "Lobster Ball"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -911,12 +1259,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -926,7 +1274,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "三文鱼丸",
+                "value": "三文鱼丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -934,7 +1288,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Salmon Ball",
+                "value": "Salmon Ball"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -942,12 +1302,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -957,7 +1317,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "吊片猪肉丸",
+                "value": "吊片猪肉丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -965,7 +1331,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Meat Ball with Cuttlefish",
+                "value": "Meat Ball with Cuttlefish"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -973,12 +1345,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -988,7 +1360,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "爆酱猪肉丸",
+                "value": "爆酱猪肉丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -996,7 +1374,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Bursting Meat Ball",
+                "value": "Bursting Meat Ball"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1004,12 +1388,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1019,7 +1403,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "芝士猪肉香肠",
+                "value": "芝士猪肉香肠"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1027,7 +1417,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Cheese Pork Sausage",
+                "value": "Cheese Pork Sausage"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1035,12 +1431,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1050,7 +1446,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "台湾香肠丸",
+                "value": "台湾香肠丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1058,7 +1460,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Taiwan Sausage",
+                "value": "Taiwan Sausage"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1066,12 +1474,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1081,7 +1489,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "金钱肉干",
+                "value": "金钱肉干"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1089,7 +1503,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Coin Bakkwa",
+                "value": "Coin Bakkwa"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1097,12 +1517,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1112,7 +1532,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "猪午餐肉",
+                "value": "猪午餐肉"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1120,7 +1546,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Luncheon Meat",
+                "value": "Luncheon Meat"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1128,12 +1560,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1143,7 +1575,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "竹轮",
+                "value": "竹轮"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1151,7 +1589,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Big Chikuwa",
+                "value": "Big Chikuwa"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1159,12 +1603,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1174,7 +1618,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "QQ鱼柱",
+                "value": "QQ鱼柱"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1182,7 +1632,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish Filament",
+                "value": "Fish Filament"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1190,12 +1646,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1205,7 +1661,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "牛肉丸",
+                "value": "牛肉丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1213,7 +1675,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Beef Ball",
+                "value": "Beef Ball"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1221,12 +1689,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1236,7 +1704,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "龙虾钳",
+                "value": "龙虾钳"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1244,7 +1718,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Hors Claw",
+                "value": "Hors Claw"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1252,12 +1732,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1267,7 +1747,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "福州鱼丸",
+                "value": "福州鱼丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1275,7 +1761,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fuzhou Fish Ball",
+                "value": "Fuzhou Fish Ball"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1283,12 +1775,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1298,7 +1790,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "芝士豆腐",
+                "value": "芝士豆腐"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1306,7 +1804,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Cheese Taufu",
+                "value": "Cheese Taufu"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1314,12 +1818,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1329,7 +1833,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "海鲜豆腐",
+                "value": "海鲜豆腐"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1337,7 +1847,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Seafood Taufu",
+                "value": "Seafood Taufu"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1345,12 +1861,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1360,7 +1876,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "白豆腐",
+                "value": "白豆腐"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1368,7 +1890,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "White Taufu",
+                "value": "White Taufu"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1376,12 +1904,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1391,7 +1919,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "QQ豆腐",
+                "value": "QQ豆腐"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1399,7 +1933,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "QQ Taufu",
+                "value": "QQ Taufu"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1407,12 +1947,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1422,7 +1962,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "魔芋结",
+                "value": "魔芋结"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1430,7 +1976,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Konjac Knot",
+                "value": "Konjac Knot"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1438,12 +1990,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1453,7 +2005,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鹌鹑蛋",
+                "value": "鹌鹑蛋"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1461,7 +2019,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Quail Eggs",
+                "value": "Quail Eggs"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1469,12 +2033,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1484,7 +2048,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "水晶鱼丸",
+                "value": "水晶鱼丸"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1492,7 +2062,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish Ball",
+                "value": "Fish Ball"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1500,12 +2076,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913281,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#000000FF"
@@ -1515,7 +2091,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鸭血",
+                "value": "鸭血"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#000000FF"
               }
             },
@@ -1523,7 +2105,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Duck Blood Curd",
+                "value": "Duck Blood Curd"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#000000FF"
               }
             }
@@ -1531,12 +2119,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913281,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#A5571C"
@@ -1546,7 +2134,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鱼籽福袋",
+                "value": "鱼籽福袋"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#A5571C"
               }
             },
@@ -1554,7 +2148,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish Roe Fukubukuro",
+                "value": "Fish Roe Fukubukuro"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#A5571C"
               }
             }
@@ -1562,43 +2162,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
-              "data":
-              {
-                "color": "#A5571C"
-              }
-            },
-            {
-              "name": "text_chinese",
-              "data":
-              {
-                "value": "北海道长脚蟹柳",
-                "color": "#A5571C"
-              }
-            },
-            {
-              "name": "text_english",
-              "data":
-              {
-                "value": "Hokkaido Snow Crab Legs",
-                "color": "#A5571C"
-              }
-            }
-          ]
-        },
-        {
-          "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
-          "details":
-          [
-            {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#A5571C"
@@ -1608,7 +2177,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鱼腐",
+                "value": "北海道长脚蟹柳"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#A5571C"
               }
             },
@@ -1616,7 +2191,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish Soy",
+                "value": "Hokkaido Snow Crab Legs"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#A5571C"
               }
             }
@@ -1624,43 +2205,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
-              "data":
-              {
-                "color": "#A5571C"
-              }
-            },
-            {
-              "name": "text_chinese",
-              "data":
-              {
-                "value": "炸鸡爪",
-                "color": "#A5571C"
-              }
-            },
-            {
-              "name": "text_english",
-              "data":
-              {
-                "value": "Fried Chicken Feet",
-                "color": "#A5571C"
-              }
-            }
-          ]
-        },
-        {
-          "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
-          "details":
-          [
-            {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#A5571C"
@@ -1670,7 +2220,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "贵妃鲍鱼片",
+                "value": "鱼腐"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#A5571C"
               }
             },
@@ -1678,7 +2234,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Abalone Slices",
+                "value": "Fish Soy"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#A5571C"
               }
             }
@@ -1686,43 +2248,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
-              "data":
-              {
-                "color": "#A5571C"
-              }
-            },
-            {
-              "name": "text_chinese",
-              "data":
-              {
-                "value": "熟带子",
-                "color": "#A5571C"
-              }
-            },
-            {
-              "name": "text_english",
-              "data":
-              {
-                "value": "Scallop",
-                "color": "#A5571C"
-              }
-            }
-          ]
-        },
-        {
-          "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
-          "details":
-          [
-            {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#A5571C"
@@ -1732,7 +2263,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "半壳扇贝",
+                "value": "炸鸡爪"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#A5571C"
               }
             },
@@ -1740,7 +2277,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Half Shell Scallop",
+                "value": "Fried Chicken Feet"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#A5571C"
               }
             }
@@ -1748,12 +2291,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#A5571C"
@@ -1763,7 +2306,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "半壳黄金扇贝",
+                "value": "贵妃鲍鱼片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#A5571C"
               }
             },
@@ -1771,7 +2320,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Golden Scallop",
+                "value": "Abalone Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#A5571C"
               }
             }
@@ -1779,12 +2334,141 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "熟带子"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Scallop"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
+          "details":
+          [
+            {
+              "name": "/frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "半壳扇贝"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Half Shell Scallop"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
+          "details":
+          [
+            {
+              "name": "/frame",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_chinese",
+              "data":
+              {
+                "value": "半壳黄金扇贝"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            },
+            {
+              "name": "text_english",
+              "data":
+              {
+                "value": "Golden Scallop"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
+                "color": "#A5571C"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
+          "details":
+          [
+            {
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1794,7 +2478,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "酿豆腐卜",
+                "value": "酿豆腐卜"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1802,7 +2492,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish Taufu Pok",
+                "value": "Fish Taufu Pok"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1810,12 +2506,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1825,7 +2521,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "猪肚",
+                "value": "猪肚"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1833,7 +2535,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Pork Hog Maw",
+                "value": "Pork Hog Maw"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1841,12 +2549,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1856,7 +2564,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鱼面",
+                "value": "鱼面"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1864,7 +2578,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Fish Udon",
+                "value": "Fish Udon"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1872,12 +2592,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1887,7 +2607,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鱿鱼圈",
+                "value": "鱿鱼圈"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1895,7 +2621,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Squid Rings",
+                "value": "Squid Rings"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1903,12 +2635,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1918,7 +2650,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "特色手工水饺",
+                "value": "特色手工水饺"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1926,7 +2664,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Handmade Dumpling",
+                "value": "Handmade Dumpling"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1934,12 +2678,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1949,7 +2693,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "啦啦",
+                "value": "啦啦"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1957,7 +2707,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Lala Clamps",
+                "value": "Lala Clamps"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1965,12 +2721,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -1980,7 +2736,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "老虎虾",
+                "value": "老虎虾"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -1988,7 +2750,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Tiger Prawn",
+                "value": "Tiger Prawn"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -1996,12 +2764,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2011,7 +2779,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "熏鸭胸肉",
+                "value": "熏鸭胸肉"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2019,7 +2793,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Smoked Duck Slices",
+                "value": "Smoked Duck Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2027,12 +2807,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2042,7 +2822,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "卤肥肠",
+                "value": "卤肥肠"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2050,7 +2836,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Braised Pork Intestines",
+                "value": "Braised Pork Intestines"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2058,12 +2850,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2073,7 +2865,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "卤金钱肚",
+                "value": "卤金钱肚"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2081,7 +2879,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Braised Beef Tripe",
+                "value": "Braised Beef Tripe"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2089,12 +2893,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2104,7 +2908,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "千丝牛肚",
+                "value": "千丝牛肚"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2112,7 +2922,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Shredded Beef Tripe",
+                "value": "Shredded Beef Tripe"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2120,12 +2936,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2135,7 +2951,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "洗净鸭肠",
+                "value": "洗净鸭肠"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2143,7 +2965,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Duck Intestines",
+                "value": "Duck Intestines"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2151,12 +2979,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2166,7 +2994,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "巴丁鱼片",
+                "value": "巴丁鱼片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2174,7 +3008,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Patin Slices",
+                "value": "Patin Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2182,12 +3022,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2197,7 +3037,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "石斑鱼片",
+                "value": "石斑鱼片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2205,7 +3051,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Grouper Slice",
+                "value": "Grouper Slice"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2213,12 +3065,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2228,7 +3080,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "毛肚",
+                "value": "毛肚"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2236,7 +3094,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Beef Tripe",
+                "value": "Beef Tripe"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2244,12 +3108,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2259,7 +3123,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "八爪鱼",
+                "value": "八爪鱼"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2267,7 +3137,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Baby Octopus",
+                "value": "Baby Octopus"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2275,12 +3151,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2290,7 +3166,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "红鱼片",
+                "value": "红鱼片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2298,7 +3180,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Red Snapper",
+                "value": "Red Snapper"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2306,12 +3194,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#DC0000"
@@ -2321,7 +3209,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鱿鱼须",
+                "value": "鱿鱼须"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#DC0000"
               }
             },
@@ -2329,7 +3223,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Squid Tentacles",
+                "value": "Squid Tentacles"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#DC0000"
               }
             }
@@ -2337,12 +3237,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8314"
@@ -2352,7 +3252,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "中嘴肉片",
+                "value": "中嘴肉片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8314"
               }
             },
@@ -2360,7 +3266,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Pork Shoulder Slices",
+                "value": "Pork Shoulder Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8314"
               }
             }
@@ -2368,12 +3280,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8315"
@@ -2383,7 +3295,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "五花腩肉片",
+                "value": "五花腩肉片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8315"
               }
             },
@@ -2391,7 +3309,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Pork Belly Slices",
+                "value": "Pork Belly Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8315"
               }
             }
@@ -2399,12 +3323,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8316"
@@ -2414,7 +3338,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "特级五花烟肉片",
+                "value": "特级五花烟肉片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8316"
               }
             },
@@ -2422,7 +3352,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Bacon Slices",
+                "value": "Bacon Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8316"
               }
             }
@@ -2430,12 +3366,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8317"
@@ -2445,7 +3381,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "澳洲牛肉片",
+                "value": "澳洲牛肉片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8317"
               }
             },
@@ -2453,7 +3395,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Australia Beef Slices",
+                "value": "Australia Beef Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8317"
               }
             }
@@ -2461,12 +3409,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8318"
@@ -2476,7 +3424,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "澳洲羊肉片",
+                "value": "澳洲羊肉片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8318"
               }
             },
@@ -2484,7 +3438,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Australia Lamb Slices",
+                "value": "Australia Lamb Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8318"
               }
             }
@@ -2492,12 +3452,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907406,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8319"
@@ -2507,7 +3467,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "帝王蟹腿",
+                "value": "帝王蟹腿"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8319"
               }
             },
@@ -2515,7 +3481,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "King Crab Legs",
+                "value": "King Crab Legs"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8319"
               }
             }
@@ -2523,12 +3495,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907406,
-          "last_modification_date_unix": 1754907407,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8320"
@@ -2538,7 +3510,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "鸡肉片",
+                "value": "鸡肉片"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8320"
               }
             },
@@ -2546,7 +3524,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Chicken Slices",
+                "value": "Chicken Slices"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8320"
               }
             }
@@ -2554,12 +3538,12 @@
         },
         {
           "amount": 1,
-          "creation_date_unix": 1754907407,
-          "last_modification_date_unix": 1754907407,
+          "creation_date_unix": 1754913282,
+          "last_modification_date_unix": 1754913282,
           "details":
           [
             {
-              "name": "frame",
+              "name": "/frame",
               "data":
               {
                 "color": "#FA8321"
@@ -2569,7 +3553,13 @@
               "name": "text_chinese",
               "data":
               {
-                "value": "虾滑",
+                "value": "虾滑"
+              }
+            },
+            {
+              "name": "/text_chinese",
+              "data":
+              {
                 "color": "#FA8321"
               }
             },
@@ -2577,7 +3567,13 @@
               "name": "text_english",
               "data":
               {
-                "value": "Prawn Paste",
+                "value": "Prawn Paste"
+              }
+            },
+            {
+              "name": "/text_english",
+              "data":
+              {
                 "color": "#FA8321"
               }
             }
